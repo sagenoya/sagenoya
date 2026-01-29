@@ -62,18 +62,47 @@ I am a passionate **Frontend Software Developer** from West Africa, specializing
 
 ---
 
-### 📊 Vital Statistics
+### 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sageossy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ossy's Stats" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sageossy&theme=tokyonight&hide_border=true" alt="Ossy's Streak" height="180px" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sagenoya&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 </div>
 
-<br/>
+---
+
+### 📊 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sageossy&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" height="180px" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=sageossy&theme=tokyonight&hide_border=true" alt="Activity Graph" height="180px" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sagenoya/sagenoya/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sagenoya/sagenoya/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sagenoya/sagenoya/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+### 💡 Core Skills & Expertise
+
+<div align="center">
+  
+**Frontend Mastery**
+  
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend & Infrastructure**
+
+![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 </div>
 
 ---
