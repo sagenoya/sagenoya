@@ -1,77 +1,94 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ossy</h1>
-<h3 align="center">I'm a passionate Front End Developer from West Africa.</h3>
-
-
-## 🙋‍♂️ About Me
-
-- 🔭 I currently work with ReactJs, Nextjs, Vuejs, Nuxt, Prisma ORM, Sanity IO - CMS, MongoDb, Supabase, cockroachDb and Planetscale for mysql, postgres and non relational database solutions to make building fast and scalable web apps and services easier and efficient
-
-- 🌱 I’m currently learning **java and spring boot**
-
-- 👯 I’m looking to collaborate on **Junior Developer roles or Partnership with other young developers**
-
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://ossy.vercel.app)**
-
-- 📫 How to reach me **codingossy@gmail.com**
-
-- ⚡ Fun fact **I like to Watch Movies, Travel and i Love Food, alot**
-
-## 🚀 Languages and Tools: 
-
-<p align="left"> 
-    <!-- <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a> -->
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-
-   
-   
-    
-</p>
-
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
-
-<p align="center">
-    <a href="https://github.com/codingossy/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt='Ossys streak" src="https://github-readme-streak-stats.herokuapp.com/?user=codingossy28&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+<div align="center">
+  <img src="https://images.pexels.com/photos/1779487/pexels-photo-1779487.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" width="100%" alt="Banner" style="border-radius: 10px; margin-bottom: 20px;" />
+  
+  <h1><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> Hi, I'm Ossy</h1>
+  <p><strong>Fintech Engineer | Senior Frontend Developer | Digital Solution Architect</strong></p>
+  
+  <p>
+    <a href="https://ossy.vercel.app" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
     </a>
-</p>
+    <a href="mailto:codingossy@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/codingossy/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+  </p>
+</div>
 
-## 📊 My Github Stats
+---
 
+### 🚀 About Me
+
+I am a passionate **Frontend Software Developer** from West Africa, specializing in crafting high-performance, visually stunning, and user-centric digital experiences. I have deep expertise in building the frontend architecture for complex systems, including:
+
+*   **💳 Payment Ecosystems**: Designing intuitive and secure transaction interfaces and global checkout flows.
+*   **💱 Financial Operations**: Creating real-time data visualizations for currency exchange and settlement systems.
+*   **🛠️ Enterprise Architecture**: Developing scalable frontend suites for seamless business operations.
+
+---
+
+### 💻 Tech Skin Set
+
+<div align="left">
+  <table>
+    <tr>
+      <td valign="top" width="33%">
+        <strong>Frontend</strong><br/>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      </td>
+      <td valign="top" width="33%">
+        <strong>Backend & Data</strong><br/>
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      </td>
+      <td valign="top" width="33%">
+        <strong>Other Tech</strong><br/>
+        <img src="https://img.shields.io/badge/Sanity-F03E2F?style=flat-square&logo=sanity&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+*   🌱 Currently mastering **Java & Spring Boot** to further expand my backend capabilities.
+*   👯 Looking to collaborate on **Fintech Innovation** and high-impact partnership roles.
+
+---
+
+### 📊 Vital Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codingossy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ossy's Stats" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codingossy&theme=tokyonight&hide_border=true" alt="Ossy's Streak" height="180px" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingossy&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" height="180px" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=codingossy&theme=tokyonight&hide_border=true" alt="Activity Graph" height="180px" />
+</div>
+
+---
+
+### 🛡️ Core Capabilities
+*   **Financial Grade UI/UX**: Crafting interfaces that inspire trust and efficiency.
+*   **System Integration**: Connecting complex financial APIs like Ideospay into seamless flows.
+*   **Performance Optimization**: Ensuring millisecond latency for critical transaction systems.
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=codingossy&color=blueviolet" alt="Profile Views" />
   <br/>
-    <a href="https://github.com/codingossy/github-readme-stats"><img alt="Coding Ossy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codingossy&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://Ossy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingossy&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <i>Developing the future of finance, one commit at a time.</i>
+</div>
 
-
-<br/>
-<br/>
-
-<a href="https://github.com/codingossy/github-readme-activity-graph"><img alt="Ossy's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=codingossy&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
-## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/codingossy/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/codingossy"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/codingossy/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
-
-</p>
-
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=codingossy">
-</a>
-<a href="https://github.com/codingossy?tab=followers"><img src="https://img.shields.io/github/followers/codingossy?label=Followers&style=social" alt="GitHub Badge"></a>
